@@ -1,0 +1,33 @@
+{"javaWebsites": [{
+  "id":1,
+  "name": "Udemy",
+  "description":"Udemy is one of the best online resources for developers to learn and upskill. The website hosts free and premium online courses and tutorials in all technologies, including Java, Python, Spring, REST, Selenium, etc.",
+  "Tutorials": "Java Programming Masterclass",
+  "AuthorName": "XUdemy",
+  "link":"https://www.udemy.com/course/java-the-complete-java-developer-course/"
+},
+{
+  "id":2,
+  "name": "w3 Schools",
+  "description":"W3Schools is a web developers site, with tutorials and references on web development languages such as Java, HTML, CSS, JavaScript, PHP, SQL, and JQuery",
+  "Tutorials": "Java Tutorial",
+  "AuthorName": "ABC-W3schools",
+  "link":"https://www.w3schools.com/java/default.asp"
+
+},{
+  "id":3,
+  "name": "Coursera",
+  "description":"Like Udemy, Coursera is an excellent online learning platform that offers quality JavaScript tutorials and courses. Founded by Stanford professors Andrew Ng and Daphne Koller, the platform grew fast and became one of the leading online degree platforms for IT professionals.",
+  "Tutorials": "Java Programming",
+  "AuthorName": "Duke",
+  "link":"https://www.coursera.org/specializations/java-programming"
+
+},{
+  "id":4,
+  "name": "Tutorials point",
+  "description":"Tutorialspoint.com is a dedicated website to provide quality online education in the domains of Computer Science, Information Technology, Programming Languages, and other Engineering as well as Management subjects.",
+  "Tutorials": "Java for Begginers",
+  "AuthorName": "XYZ-Udemy",
+  "link":"https://www.tutorialspoint.com/java-for-beginners/index.asp"
+
+}]}
